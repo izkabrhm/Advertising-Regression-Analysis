@@ -20,4 +20,4 @@ Y = A+B(X)
 * B is a constant that reflects how much Y changes for every value of X. (Getting an accurate number may require a mathematician or an app.)
 * A is a constant that equals the value of Y when X is zero. Determine A by plugging 0 into X
 
-In this project, A Linear Regression model has been implemented to predict the sales from marketing/advertising spends on different platform such as TV, Radio and Newspaper.
+In this project, A Linear Regression model has been implemented to predict sales from marketing/advertising spends on different platforms such as TV, Radio and Newspaper.
